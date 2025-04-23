@@ -1,0 +1,7 @@
+server:
+  ssl:
+    key-alias: springboot-https
+    key-store: classpath:aniltech.jks
+    key-store-type: JKS
+    key-password: password
+  port: 8589
